@@ -182,7 +182,6 @@ const [meetingState, setMeetingState] = useState <'isScheduleMeeting'| 'isJoinin
           {(e) => setValues({ ...values, link: e.target.value })}
         />        
 </MeetingModal>
-
     </section>
   )
 }
