@@ -74,7 +74,7 @@ const MeetingTypeList = () => {
       <HomeCard
         img="/icons/add-meeting.svg"
         title="New Meeting"
-        description="Start an instant meeting" 
+        description="Start an instant meeting"
         handleClick={() => setMeetingState('isInstantMeeting')}
       />
       <HomeCard
@@ -104,6 +104,8 @@ const MeetingTypeList = () => {
           isOpen={meetingState === 'isScheduleMeeting'}
           onClose={() => setMeetingState(undefined)}
           title="Create Meeting"
+          buttonText="Start Meeting"
+          image="/icons/add-meeting.svg"
           handleClick={createMeeting}
         >
           <div className="flex flex-col gap-2.5">
