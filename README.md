@@ -1,13 +1,12 @@
 Live URL : https://zoom-virid-two.vercel.app/
+
 Login : 
 ![Screenshot 2024-04-16 143150](https://github.com/thesumitsuryawanshi/zoom/assets/58788722/47724fe9-68c3-4bfd-b0e0-9c571f89e5ad)
 
-
-Image 1 : ![image](https://github.com/thesumitsuryawanshi/zoom/assets/58788722/4f44c435-df05-45f2-8f4f-3bf32cb55906)
-
+Image 1 : ![image](https://github.com/thesumitsuryawanshi/zoom/assets/58788722/eb8e2408-3908-4365-9a2f-aa9344c3d09d)
 
 Image 2:
-![image](https://github.com/thesumitsuryawanshi/zoom/assets/58788722/eb8e2408-3908-4365-9a2f-aa9344c3d09d)
+![image](https://github.com/thesumitsuryawanshi/zoom/assets/58788722/4f44c435-df05-45f2-8f4f-3bf32cb55906)
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
